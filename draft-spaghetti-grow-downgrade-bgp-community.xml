@@ -153,7 +153,7 @@ version="3">
       <t>
         DoS attacks are a pervasive long-standing issue and happen frequently in network operations.
         Traditional RTBH-based attack mitigation techniques rely on indiscriminate traffic discardure and while this does eliminate unwanted attack traffic, it also disrupts valuable non-attack traffic as an unfortunate side-effect.
-        In contrast, the aforementioned "downgrade" strategy aims to reduce collatoral damage by forwarding as much traffic as possible.
+        In contrast, the aforementioned "downgrade" strategy aims to reduce collateral damage by forwarding as much traffic as possible.
       </t>
       <t>
         BGP announcements carrying the <tt>DOWNGRADE</tt> community should only be accepted and honored if the neighboring network is authorized to advertise the prefix.
