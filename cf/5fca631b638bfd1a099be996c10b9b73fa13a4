@@ -1,0 +1,19 @@
+draft-spaghetti-grow-downgrade-bgp-community.xml
+  s_6f62ba535331db::t_5be5fcce218a47 156
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cf5fca631b638bfd1a099be996c10b9b73fa13a4",
+  "prompts": {},
+  "sessions": {
+    "s_6f62ba535331db": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa10282dbffeH8KuPXMeG9VcSD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "bryton <bryton@cloudflare.com>"
+    }
+  }
+}
